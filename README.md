@@ -4,9 +4,9 @@
 		- obfuscation
 	
 ## Download
-	```
-	git clone https://github.com/tr1xongithub/PowerLoader
-	```
+```
+git clone https://github.com/tr1xongithub/PowerLoader
+```
 ## Run
 ```
 python3 builder.py
