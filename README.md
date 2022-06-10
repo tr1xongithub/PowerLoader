@@ -3,6 +3,11 @@
 	- Features
 		- obfuscation
 	
-# Download
+## Download
+	```
 	git clone https://github.com/tr1xongithub/PowerLoader
-	python3 builder.py
+	```
+## Run
+```
+python3 builder.py
+```
